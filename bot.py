@@ -59,4 +59,4 @@ async def shutdown(ctx):
     print(str(ctx.author) + " has terminated bot")
    
   
-client.run('')
+client.run('Your Token! But not here!')
